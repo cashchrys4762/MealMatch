@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ai/
+.vercel/
+docs/_recovered/
+docs/_export_pseudo.py
